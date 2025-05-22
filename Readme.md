@@ -8,7 +8,7 @@ All the scripts are inside Asse-> Scripts.
 
 Google drive link of the game :
 **DISCLAIMER**
-*The platforms sometimes get behind the background and sometimes work fine. I have sorted the layers correctly but still this issue is persisting so please while testing out my game please either restart or die and play again. I will attach photos of my scene view and game view in the google drive that will contain the build of my game
+*The platforms sometimes get behind the background and sometimes work fine. I have sorted the layers correctly but still this issue is persisting so please while testing out my game please either restart or die and play again. I will attach photos of my scene view and game view in this google drive https://drive.google.com/drive/folders/1bs0H2tqHUjb1wUcOCGYvnFWAEkJvY5Xk?usp=sharing
 
 https://drive.google.com/drive/folders/1Qf1NUzpiG53px6mOpDCxdsz3dJOBD65a?usp=sharing
 
