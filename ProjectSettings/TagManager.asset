@@ -3,16 +3,18 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Ground
+  - Collectible
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Player
   - Water
   - UI
-  - 
-  - 
+  - Ground
+  - Enemy
   - 
   - 
   - 
@@ -41,15 +43,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Parallax
-    uniqueID: 1117067605
-    locked: 0
   - name: Background
-    uniqueID: 3665497169
+    uniqueID: 1651261241
     locked: 0
-  - name: Ground
-    uniqueID: 1022267331
+  - name: Tiles
+    uniqueID: 2541305843
     locked: 0
-  - name: player
-    uniqueID: 4124314495
+  - name: Player
+    uniqueID: 2114374409
+    locked: 0
+  - name: please
+    uniqueID: 1438215617
     locked: 0

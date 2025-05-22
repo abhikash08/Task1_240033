@@ -1,39 +1,23 @@
-## 🚀 How to Use This Template
+GAME IDEA :
+This is a 2D platformer game where the main objective is to reach the other end of the cave and landing on the fire on the last platform
+collecting treasure boxes and also defeating the red scarfed knight in the way.
 
-### 1. Clone the Template Repository
+The Game consists of 4 scenes : HOME , GAMEPLAY , DEATH , WIN.
+All the scripts are inside Assets -> Samples -> Scripts.
 
-Start by cloning this repository to your local machine using Git:
+**DISCLAIMER**
+*The platforms sometimes get behind the background and sometimes work fine. I have sorted the layers correctly but still this issue is persisting so please while testing out my game please either restart or die and play again. I will attach photos of my scene view and game view in the google drive that will contain the build of my game
 
-```bash
-git clone https://github.com/xantric/SecyTask_GameDev.git
-```
+CONTROLS :
+A -> Move right
+D -> Move left
+SPACE -> Jump
+LMB -> Attack
 
-### 2. Navigate Into the Project Folder
+MY CONTRIBUTION :
+1.Made the sprite for idle state and punching state of enemy using *PixelStudio*(Android Tab).
+2.Background image for all th
+e different scenes have been taken from *DeviantArt.com*
+3.Background music for all the different scenes have been downloaded from *YouTube.com*
+4.Animations created and used are all that were given in the sample apart from Enemy attacking.
 
-```bash
-cd SecyTask_GameDev
-```
-### 3. Remove the Old Git Remote
-
-Disconnect the original remote repository to avoid pushing to it:
-
-```bash
-git remote remove origin
-```
-
-### 4. Create a New GitHub Repository
-Go to https://github.com and create a new empty repository on your account.
-
-### 5. Add Your GitHub Repository as the New Remote
-Example: (Use your own link after origin)
-
-```bash
-git remote add origin https://github.com/yourusername/unity-assignment.git
-```
-Verify that the new origin was added:
-
-```bash
-git remote -v
-```
-
-#### Now you can normally use git in your project (push,pull,etc.)
